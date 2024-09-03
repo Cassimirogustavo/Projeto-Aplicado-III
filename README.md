@@ -27,10 +27,13 @@ O objetivo principal é construir um sistema que utilize técnicas de aprendizad
 * **Metas Qualitativas:** Melhoria da experiência do usuário, descoberta de novas oportunidades e aumento da taxa de conversão.
 
 ## Cronograma
-Etapa 1: Definição do Projeto (08/08 a 07/09): Nesta fase inicial, o grupo será formado e o tema do projeto será definido em detalhes. Um documento inicial será elaborado, contendo o escopo do projeto.
-Etapa 2: Análise Exploratória dos Dados (08/09 a 05/10): Nessa fase, os dados serão coletados, limpos e explorados. Serão realizadas análises estatísticas e visualizações para entender melhor os dados e identificar padrões.
-Etapa 3: Desenvolvimento do Modelo (06/10 a 02/11): Nesta fase, a técnica de machine learning mais adequada será escolhida e o modelo será desenvolvido e ajustado para obter os melhores resultados.
-Etapa 4: Documentação e Apresentação Final (03/11 a 23/11): Nessa fase, toda a documentação técnica do projeto será elaborada, incluindo código, resultados e análises. A apresentação final será preparada e realizada até 23 de novembro.
+* ** Etapa 1: Definição do Projeto (08/08 a 07/09): Nesta fase inicial, o grupo será formado e o tema do projeto será definido em detalhes. Um documento inicial será elaborado, contendo o escopo do projeto.
+* 
+* ** Etapa 2: Análise Exploratória dos Dados (08/09 a 05/10): Nessa fase, os dados serão coletados, limpos e explorados. Serão realizadas análises estatísticas e visualizações para entender melhor os dados e identificar padrões.
+* 
+* ** Etapa 3: Desenvolvimento do Modelo (06/10 a 02/11): Nesta fase, a técnica de machine learning mais adequada será escolhida e o modelo será desenvolvido e ajustado para obter os melhores resultados.
+* 
+* ** Etapa 4: Documentação e Apresentação Final (03/11 a 23/11): Nessa fase, toda a documentação técnica do projeto será elaborada, incluindo código, resultados e análises. A apresentação final será preparada e realizada até 23 de novembro.
 
 
 ## Equipe
