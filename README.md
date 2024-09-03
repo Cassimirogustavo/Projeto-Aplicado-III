@@ -1,4 +1,4 @@
-# Projeto-Aplicado-III---Sistema-de-Recomenda-o-de-Vagas-de-Emprego
+# Projeto-Aplicado-III
 
 # Sistema de Recomendação de Empregos: Uma Abordagem Personalizada e Alinhada ao ODS 8
 
